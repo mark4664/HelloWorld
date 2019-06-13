@@ -1,3 +1,3 @@
 # HelloWorld
 Hello world test repository
-This brance is the readme edits one.
+This branch is the readme edits one.
