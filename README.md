@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Marks hello world page
 
 You can use the [editor on GitHub](https://github.com/mark4664/HelloWorld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
